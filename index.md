@@ -1,8 +1,10 @@
 - Thiết lập chứng thực cá nhân
+
 ```
-  - **$ git config --global user.name "User Name"**
-  - **$ git config --global user.email "username@gmail.com"**
+   **$ git config --global user.name "User Name"**
+   **$ git config --global user.email "username@gmail.com"**
 ```
+
   - Lưu ý: --global được sử dụng để áp dụng cho tất cả các projects. Nếu bạn ko sử dụng --global thì settings sẽ chỉ dùng cho riêng project đó.
 - Tạo một kho chứa Git
   - **$ git init**
