@@ -1,4 +1,4 @@
-[!Back to main](./git).
+[!Back to main](./index).
 - Thiết lập chứng thực cá nhân
 
 ```
